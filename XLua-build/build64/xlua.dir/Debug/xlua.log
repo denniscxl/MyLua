@@ -1,0 +1,60 @@
+﻿  Building Custom Rule D:/Projects/DS/DS/Tools/XLua-build/CMakeLists.txt
+  CMake does not need to re-run because D:/Projects/DS/DS/Tools/XLua-build/build64/CMakeFiles/generate.stamp is up-to-date.
+  lapi.c
+  lcode.c
+  lctype.c
+  ldebug.c
+  ldo.c
+  ldump.c
+  lfunc.c
+  lgc.c
+  llex.c
+  lmem.c
+  lobject.c
+  lopcodes.c
+  lparser.c
+  lstate.c
+  lstring.c
+  ltable.c
+  ltm.c
+  lundump.c
+  lvm.c
+  lzio.c
+  正在生成代码...
+  正在编译...
+  lauxlib.c
+  lbaselib.c
+  lbitlib.c
+  lcorolib.c
+  ldblib.c
+  liolib.c
+  lmathlib.c
+  loslib.c
+  lstrlib.c
+  ltablib.c
+  linit.c
+  lutf8lib.c
+  loadlib.c
+  i64lib.c
+  perflib.c
+D:\Projects\DS\DS\Tools\XLua-build\perflib.c(172): warning C4477: “snprintf”: 格式字符串“%.*s”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+  D:\Projects\DS\DS\Tools\XLua-build\perflib.c(172): note: 此参数用作精度
+  xlua.c
+  memory_leak_checker.c
+  正在生成代码...
+  auxiliar.c
+  buffer.c
+  except.c
+  inet.c
+  io.c
+  luasocket.c
+  mime.c
+  options.c
+  select.c
+  tcp.c
+  timeout.c
+  udp.c
+  wsocket.c
+  正在生成代码...
+    正在创建库 D:/Projects/DS/DS/Tools/XLua-build/build64/Debug/xlua.lib 和对象 D:/Projects/DS/DS/Tools/XLua-build/build64/Debug/xlua.exp
+  xlua.vcxproj -> D:\Projects\DS\DS\Tools\XLua-build\build64\Debug\xlua.dll
